@@ -3,7 +3,8 @@
 > https://www.geocaching.com/geocache/GCB6B9B
 
 ## Code
-in progress
+Dieses Programm startet auf einem ESP32 einen WLAN-Access-Point namens **"Geocache"** und stellt eine kleine Webseite bereit.
+Auf der Seite erscheint eine Nachricht mit einem Hinweistext und Zugangscode als Teil eines Geocache-Rätsels.
 
 ## FreeCAD Case
 - Geocaching Logo: https://en.m.wikipedia.org/wiki/File:Geocaching.svg
